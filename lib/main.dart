@@ -6,7 +6,7 @@ import 'package:smcalulater/bussinese.dart';
 
 void main() {
   runApp(GetMaterialApp(
-    home: cal(),
+    home: cal(),debugShowCheckedModeBanner:false,
   ));
 }
 
